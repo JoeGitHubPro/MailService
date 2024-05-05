@@ -1,0 +1,11 @@
+E:\Windows\Underway\Project\MailService\MailService\bin\Debug\MailService.exe.config
+E:\Windows\Underway\Project\MailService\MailService\bin\Debug\MailService.exe
+E:\Windows\Underway\Project\MailService\MailService\bin\Debug\MailService.pdb
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.csproj.AssemblyReference.cache
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.csproj.SuggestedBindingRedirects.cache
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.Form1.resources
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.Properties.Resources.resources
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.csproj.GenerateResource.cache
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.csproj.CoreCompileInputs.cache
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.exe
+E:\Windows\Underway\Project\MailService\MailService\obj\Debug\MailService.pdb
